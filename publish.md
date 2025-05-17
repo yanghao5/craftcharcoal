@@ -3,21 +3,22 @@ Steam
 ```
 [b]Thanks[/b]
 This mod is a fork of [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2212777666]To be a Coal Man[/url]
-I fixed some bugs and made some adjustments.
-Thanks to [url=https://steamcommunity.com/profiles/76561198439188517]@Summer[/url] for his work
+I fixed some bugs and made several adjustments.
+[b]Special thanks to [url=https://steamcommunity.com/profiles/76561198439188517]@Summer[/url] for the original work.[/b]
 
-[b]Usage[/b]
+[b]Intro[/b]
 You can use this building to produce charcoal.
 Enjoy the freedom of endless charcoal!
 
+[b]Usage[/b]
 [list]
 [*] The building is unlocked with Alchemy Engine.
 [*] You can set the recipe in the settings; there are two options:
-		  - Easy Mode: Uses 1xThermal Stone + 5xlog + 10xRocks
-		  - Hard Mode: Uses 1xThermal Stone + 3xBoards + 1xGears
+	- Easy Mode: 1xThermal Stone + 5xlog + 10xRocks
+	- Hard Mode: 1xThermal Stone + 3xBoards + 1xGears
 [*] The building requires fuel to produce charcoal. You can customize the fuel capacity in the settings.
 [*] The building produces charcoal at a frequency, which can be customized in the settings.
-		  - There are four speed options: slow, default, fast, and crazy
+	- There are four speed options: slow, default, fast, and crazy
 [/list]
 
 [b]Report Bugs[/b]
