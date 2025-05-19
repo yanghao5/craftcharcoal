@@ -17,13 +17,11 @@ configuration_options =
 		name = "config_fuel_max",
 		label = "Fuel Max",
 		options =	{
-            {description = "200", data = 200},
-            {description = "400", data = 400},
-			{description = "800 (default)", data = 800},
-			{description = "1600", data = 1600},
-            {description = "3200", data = 3200},
+            {description = "100", data = 100},
+			{description = "150 (default)", data = 150},
+			{description = "200", data = 200}
 		},
-		default = 800,
+		default = 150,
 	},
     {
 		name = "config_spawn_time",
@@ -32,7 +30,7 @@ configuration_options =
             {description = "slow", data = 8},
 			{description = "default", data = 4},
 			{description = "fast", data = 2},
-			{description = "crazy", data = 2}
+			{description = "crazy", data = 1}
 		},
 		default = 4,
 	},
