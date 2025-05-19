@@ -1,7 +1,7 @@
 name                        = "Craft Charcoal (木炭工艺)"
 description                 = "You can use this machine to make coal!"
 author                      = "Yang Hao"
-version                     = "1.0.0"
+version                     = "1.0.1"
 forumthread                 = ""
 api_version					= 10
 dst_compatible 				= true
