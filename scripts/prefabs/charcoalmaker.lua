@@ -196,7 +196,7 @@ local function fn(Sim)
     inst.components.fueled.ontakefuelfn = ontakefuelfn
     --inst.components.fueled:SetUpdateFn(fuelupdatefn)
     inst.components.fueled:SetSectionCallback(fuelsectioncallback)
-    inst.components.fueled:InitializeFuelLevel(TUNING.CHARCOALMAKER_FUEL_MAX/2)
+    inst.components.fueled:InitializeFuelLevel(0)
     inst.components.fueled:StartConsuming()
     local oldCanAcceptFuelItem = inst.components.fueled.CanAcceptFuelItem
     inst.components.fueled.CanAcceptFuelItem = function(self, item)
